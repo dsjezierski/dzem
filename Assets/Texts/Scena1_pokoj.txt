@@ -17,5 +17,27 @@ Ja;Tego, no... Jak on miał na imię?
 Ja;No nieważne. Gadało się całkiem nieźle, może poza ostatnimi tygodniami...
 Ja;Zresztą ładna jest, drugiej takiej mogę łatwo nie znaleźć.
 Ja;Choć może jakbym już jednak wyszedł z tego domu, to ktoś by się znalazł...
-
+Ja;Chyba ma rację, muszę coś ze sobą zrobić. Może zacznę chociaż od tych ćwiczeń?
+Ja;Inaczej to żadna może mnie nie zechcieć, a tak to przynajmniej spróbuję coś naprawić między nami.
+Ja;Przydałoby się jeszcze w jakiś sposób ją udobruchać. Jakaś randka przeprosinowa? Hmmm...
 #Wybór: krzesło (zastanów się)
+Ja;Ok, zarzutów było całkiem sporo. Trochę trafione - nie pamiętam, kiedy ostatnio byliśmy na mieście.
+Ja;Nie licząc może ostatnio wypadu z jej znajomymi z liceum... Ze studiów...? No, skądśtam.
+Ja;No i wciąż nie mam żadnego sensownego zajęcia - za dużo czasu tracę przy tych memach.
+Ja;Może coś bym poczytał? Mam tu jakieś książki...
+Ja;To zaraz, teraz muszę związek ratować!
+Ja;Ale czy właśnie jest co ratować? Wyszła mocno wkurzona...
+Ja;Trochę wysiłku w to wszystko włożyłem... Na początku, jak się zaczęliśmy spotykać.
+Ja;Potem to jakoś tak się rozeszło... 
+Ja;Nie! Nie mogę tego tak zostawić! Trzeba się wziąć w garść i odbudować tą relację!
+#Wybór: komputer (graj)
+Ja;A niech się wkurza, pokrzyczy sobie i za dwa dni będzie już normalna.
+Ja;Będzie mi tu wyrzuty robić, że czas marnuję i nic nie robię.
+Ja;Może ona by coś dla mnie zrobiła, choć raz?
+Ja;Ledwo raz ciasto upiekła, no a ja to jej cały czas coś daję.
+Ja;Na przykład... Hmmm, o, z tym gościem się złożyłem na prezent urodzinowy dla niej.
+Ja;Co on tam jej kupił? Ach, teraz nie pamiętam. Ale liczy się!
+Ja;Może żeby nie być takim bezdusznym, to wezmę ją gdzieś niedługo.
+Ja;To zobaczy, że jednak umiem, że jednak jestem fajny.
+Ja;No, to postanowione. Teraz można już spokojnie grać.
+#Dzwoni telefon

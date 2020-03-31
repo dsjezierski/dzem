@@ -1,0 +1,21 @@
+Ja;Napiję się czegoś i zaraz będzie lepiej. Co by tu wziąć?
+Tutorial;Wybierz jeden z napojów znajdujących się na stole. Kliknij na niego i wybierz opcję "Wypij".
+Tutorial;Uważaj! Każdy wybór może mieć swoje konsekwencje!
+#Wybór: woda (wypij)
+Ja;Hmmm, dalej mi ciężko. Trzeba zrobić coś innego. Jest coś tutaj, czym mógłbym się zająć?
+#Wybór: kawa/herbata (wypij)
+Ja;O, dobra, już lepiej. Trzeba działać, nie można tego tak zostawić. 
+Ja;Siądę i pomyślę, czy dalej tego chcę.
+#Wybór: piwo (wypij)
+Ja;No, nie ma to jak dobry krafcik. Zaraz będzie lepiej, muszę tylko przestać o tym myśleć na chwilę.
+#Wybór: sprzęt do ćwiczeń (ćwicz)
+Ja;O, w końcu chyba nigdy z nich nie korzystałem. Leżą już tu prawie rok i tylko zbierają kurz.
+Ja;Tak to przynajmniej się zdrowo zmęczę i w międzyczasie mogę to przemyśleć.
+Ja;Jesteśmy ze sobą już kilka miesięcy, ale w sumie to nic takiego się jeszcze nie wydarzyło.
+Ja;Na tych randkach w kinie było całkiem spoko, no i ta impreza u... 
+Ja;Tego, no... Jak on miał na imię? 
+Ja;No nieważne. Gadało się całkiem nieźle, może poza ostatnimi tygodniami...
+Ja;Zresztą ładna jest, drugiej takiej mogę łatwo nie znaleźć.
+Ja;Choć może jakbym już jednak wyszedł z tego domu, to ktoś by się znalazł...
+
+#Wybór: krzesło (zastanów się)

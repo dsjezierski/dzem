@@ -22,7 +22,7 @@ public class Interactions : MonoBehaviour, IPointerClickHandler
         for (int i = 0; i < interactionNames.Length; i++)
         {
             Debug.Log("One shiny muffin");
-            interactions[i] = Instantiate(interactionButton, getPosition() + new Vector3(this.GetComponent<RectTransform>().rect.width + interactionButton.GetComponent<RectTransform>().rect.width, interactionButton.GetComponent<RectTransform>().rect.height * i * -1.5f, 0), Quaternion.identity, this.transform);
+            interactions[i] = Instantiate(interactionButton, GetComponent<Transform>().position,  Quaternion.identity, this.transform);
             interactions[i].SetActive(false);
             interactions[i].transform.GetChild(0).GetComponent<TextMeshProUGUI>().text = interactionNames[i];
         }
@@ -31,7 +31,7 @@ public class Interactions : MonoBehaviour, IPointerClickHandler
     // Update is called once per frame
     public void OnPointerClick(PointerEventData eventData)
     {
-        if (isMenuOpen == false)
+        if (!isMenuOpen)
         {
             isMenuOpen = true;
             Debug.Log(isMenuOpen);
@@ -40,7 +40,7 @@ public class Interactions : MonoBehaviour, IPointerClickHandler
                 interactions[i].SetActive(true);
             }
         }
-        else if (isMenuOpen == true)
+        else
         {
             isMenuOpen = false;
             Debug.Log(isMenuOpen);
@@ -51,14 +51,9 @@ public class Interactions : MonoBehaviour, IPointerClickHandler
         }
     }
 
-    public Vector3 getPosition()
+    public Vector3 GetPosition()
     {
         return this.transform.position;
-    }
-
-    public bool isClicked()
-    {
-        return Input.GetMouseButtonDown(0);
     }
 
 
